@@ -9,7 +9,7 @@ Afin d'assurer un certains suivi des comptes organisationnels, il est souhaitabl
 
 ### Gestion actuelle
 
-Emmanuel Beaudry Marchand
+Emmanuel Beaudry Marchand<br>
 :email: <emmanuel.beaudry.marchand@umontreal.ca>.
 
 ## Compte _Github_ organisationnel
