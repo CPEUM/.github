@@ -11,11 +11,3 @@ Afin d'assurer un certains suivi des comptes organisationnels, il est souhaitabl
 
 Emmanuel Beaudry Marchand<br>
 :email: <emmanuel.beaudry.marchand@umontreal.ca>.
-
-## Compte _Github_ organisationnel
-
-## Compte Netlify
-
-## Compte Mapbox
-
-## Ressources supplémentaires
